@@ -1,0 +1,13 @@
+{
+    "MAILRU_WEBDAV3_USERNAME": "mail@mail.ru",
+    "MAILRU_WEBDAV3_PASSWORD": "password",
+    "MAILRU_WEBDAV3_HOSTNAME": "https://webdav.cloud.mail.ru",
+    "MailRuDirName": "BackupDocuments",
+    "DirsToBackup": [
+        "C:/Users/user/Documents"
+    ],
+    "FilesToBackup": [
+
+
+    ]
+}
